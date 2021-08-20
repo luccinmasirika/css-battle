@@ -41,18 +41,24 @@
 # Push Button
 
 ```
-<body bgcolor=#62374e>
+<body bgcolor=#6592CF>
   <div>
+  <div c>
 <style>
-  body {
-    padding:42
+  body{ display:flex
+  }
+  div {
+    width: 300;
+    height: 150;
+    margin: auto;
+    background: #243D83
     }
-    div {
-      width: 50px;
-      height: 50px;
-      background: #fdc57b;
-      box-shadow: 250px 0 #fdc57b, 250px 150px #fdc57b, 0 150px #fdc57b
-    }
+  div[c]{
+    width: 150;
+    background: #EEB850;
+    border-radius: 50%;
+    box-shadow: 0 0 0 50px #6592CF, inset 0 0 0 50px #243D83
+  }
 
 ```
 
