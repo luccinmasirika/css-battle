@@ -37,7 +37,7 @@
 
 ```
 
-[Link to battle](https://cssbattle.dev/play/2/)
+[Link to target](https://cssbattle.dev/play/2/)
 
 # Push Button
 
@@ -63,7 +63,7 @@
 
 ```
 
-[Link to battle](https://cssbattle.dev/play/3/)
+[Link to target](https://cssbattle.dev/play/3/)
 
 # Ups n Downs
 
@@ -73,8 +73,8 @@
   <div c>
 <style>
 div{
-  width:100px;
-  height:100px;
+  width:100;
+  height:100;
   border-radius:50px 50px 0 0;
   background:#F7EC7D;
   margin:50px auto 0
@@ -82,13 +82,13 @@ div{
 div[c]{
   position:fixed;
   border-radius:0 0 50px 50px;
-  margin:100px;
+  margin:100;
   box-shadow:-200px 0 #F7EC7D
 }
 
 ```
 
-[Link to battle](https://cssbattle.dev/play/4/)
+[Link to target](https://cssbattle.dev/play/4/)
 
 # Acid Rain
 
@@ -122,4 +122,26 @@ div[c]{
 
 ```
 
-[Link to battle](https://cssbattle.dev/play/5/)
+[Link to target](https://cssbattle.dev/play/5/)
+
+# Missing Slice
+
+```
+<body bgcolor=#E3516E><div a><div b><div>
+  <style>
+    div[a]{
+      margin: 50 auto;
+      width: 200;
+      height: 200;
+      border-radius: 50%; overflow: hidden
+    }
+    div[b]{
+      width: 100;
+      height: 100;
+      background: #51B5A9;
+      box-shadow: 0 100px #F7F3D7, 100px 0px #FADE8B
+    }
+
+```
+
+[Link to target](https://cssbattle.dev/play/6/)
