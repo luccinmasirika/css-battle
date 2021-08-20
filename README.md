@@ -89,3 +89,37 @@ div[c]{
 ```
 
 [Link to battle](https://cssbattle.dev/play/4/)
+
+# Acid Rain
+
+```
+<body bgcolor=#0B2429><div>
+  <style>
+    body{display: flex}
+    div, div:before, div:after{
+      width: 120;
+      height: 120;
+      background: #998235;
+      margin: auto;
+      border-radius: 50% 0 50% 50%
+    }
+    div:before, div:after{
+      content: '';
+      position: fixed;
+      background: #F3AC3C;
+      bottom: 30;
+      left: 80;
+      border-radius: 50% 0 50% 50%
+    }
+    div:after{
+      content: '';
+      position: fixed;
+      z-index: -1;
+      top: -90;
+      right: -40;
+      border-radius: 50%
+    }
+
+```
+
+[Link to battle](https://cssbattle.dev/play/5/)
