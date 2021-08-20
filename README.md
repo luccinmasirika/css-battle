@@ -145,3 +145,25 @@ div[c]{
 ```
 
 [Link to target](https://cssbattle.dev/play/6/)
+
+# Leafy Trial
+
+```
+<body bgcolor=#0B2429><div>
+  <style>
+    body{
+      display:flex;
+      padding-left:50px
+    }
+    div{
+      width:200;
+      height:150;
+      background: #F3AC3C;
+      margin:auto;
+      border-radius:100px 0;
+      box-shadow:-50px 0#1A4341,inset 50px 0#998235
+    }
+
+```
+
+[Link to target](https://cssbattle.dev/play/7/)
