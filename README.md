@@ -64,3 +64,28 @@
 ```
 
 [Link to battle](https://cssbattle.dev/play/3/)
+
+# Ups n Downs
+
+```
+<body bgcolor=#62306D>
+  <div>
+  <div c>
+<style>
+div{
+  width:100px;
+  height:100px;
+  border-radius:50px 50px 0 0;
+  background:#F7EC7D;
+  margin:50px auto 0
+}
+div[c]{
+  position:fixed;
+  border-radius:0 0 50px 50px;
+  margin:100px;
+  box-shadow:-200px 0 #F7EC7D
+}
+
+```
+
+[Link to battle](https://cssbattle.dev/play/4/)
